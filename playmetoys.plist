@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sltung.hca</string>
+				<string>com.iisi.HealthCarePersonnele</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>醫事行動憑證</string>
+				<string>智慧樂齡木育</string>
 			</dict>
 		</dict>
 	</array>
